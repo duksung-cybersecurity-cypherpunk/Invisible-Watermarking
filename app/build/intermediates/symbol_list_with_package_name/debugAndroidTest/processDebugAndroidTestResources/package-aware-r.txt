@@ -1,0 +1,3 @@
+com.example.transparentkey_aos.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
